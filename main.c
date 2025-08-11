@@ -4,5 +4,5 @@
 int main (){
     printf ("Hello Word");
     float numero = 10/2;
-    printf ("%f", numero)
+    printf ("%f", numero);
 }
