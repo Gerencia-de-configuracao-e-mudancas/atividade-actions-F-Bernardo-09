@@ -3,6 +3,6 @@
 
 int main (){
     printf ("Hello Word");
-    float numero = 10/0;
-    jwhflhrg3ngr3lhp3
+    float numero = 10/2;
+    printf ("%f", numero)
 }
